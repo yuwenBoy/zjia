@@ -1,0 +1,483 @@
+
+{
+  "cn": {
+    "header": {
+      "langList": [
+        "中",
+        "英"
+      ],
+      "titleList": [
+        {
+          "svg": "img/d_home.svg",
+          "title": "首页"
+        },
+        {
+          "svg": "img/d_info.svg",
+          "title": "关于我"
+        },
+        {
+          "svg": "img/d_skills.svg",
+          "title": "技能栈"
+        },
+        {
+          "svg": "img/d_exp.svg",
+          "title": "经历"
+        },
+        {
+          "svg": "img/d_works.svg",
+          "title": "作品集"
+        },
+        {
+          "svg": "img/d_contact.svg",
+          "title": "联系我"
+        }
+      ]
+    },
+    "footer": {},
+    "default": {
+      "quote": "生活是一种绵延不绝的渴望，渴望不断上升，变得更伟大而高贵。",
+      "desList": [
+        "我叫赵鉴",
+        "一名前端研发工程师",
+        "zhaoj2016@qq.com"
+      ]
+    },
+    "info": {
+      "title": "关于我",
+      "infoList": [
+        {
+          "icon": "img/i_age.svg",
+          "key": "年龄",
+          "value": "24岁"
+        },
+        {
+          "icon": "img/i_edu.svg",
+          "key": "学历",
+          "value": "专科"
+        },
+        {
+          "icon": "img/i_site.svg",
+          "key": "坐标",
+          "value": "北京"
+        },
+        {
+          "icon": "img/i_status.svg",
+          "key": "状态",
+          "value": "离职"
+        }
+      ],
+      "desList": [
+        "两年全职前端开发经验",
+        "熟悉MV*开发,熟悉自动化,模块化开发之道",
+        "高效的自学能力,具备独立分析解决问题能力",
+        "强烈的自我驱动力,代码强迫症患者"
+      ]
+    },
+    "skill": {
+      "title": "技能栈",
+      "outCircleList": [
+        {
+          "color": "rgba(121,100,102,0.8)",
+          "name": "gulp"
+        },
+        {
+          "color": "rgba(49,65,82,0.8)",
+          "name": "angular"
+        },
+        {
+          "color": "rgba(76,157,160,0.8)",
+          "name": "webpack"
+        },
+        {
+          "color": "rgba(66,66,66,0.8)",
+          "name": "less"
+        },
+        {
+          "color": "rgba(193,131,106,0.8)",
+          "name": "css3"
+        },
+        {
+          "color": "rgba(117,148,179,0.8)",
+          "name": "nodejs"
+        },
+        {
+          "color": "rgba(71,83,94,0.8)",
+          "name": "C#"
+        },
+        {
+          "color": "rgba(147,147,189,0.8)",
+          "name": "h5"
+        }
+      ],
+      "innerCircleList": [
+        {
+          "color": "rgba(179,164,140,0.8)",
+          "name": "es6"
+        },
+        {
+          "color": "rgba(171,209,220,0.8)",
+          "name": "vue"
+        },
+        {
+          "color": "rgba(238,215,163,0.8)",
+          "name": "ng2"
+        },
+        {
+          "color": "rgba(207,184,178,0.8)",
+          "name": "go"
+        }
+      ],
+      "desList": [
+        "熟练使用angularJs1.x及各种类库的指令封装",
+        "常驻PC/APP/微信三平台前端研发",
+        "擅长组件/插件开发，能脱离库书写JS代码",
+        "编码常思其健壮性，扩展性，维护性"
+      ]
+    },
+    "works": {
+      "title": "作品集",
+      "worksList": [
+        {
+          "title": "web前端工程师简历（2018年第一版）",
+          "des": " 使用网页形式开发的个人简历，方便展示自己的技能",
+          "url": ""
+        },
+        {
+          "title": "vue-cli单页面后台管理系统",
+          "des": "使用目前主流MVVM框架构建+饿了么团队推出的Element UI开发的一套单页面的管理系统",
+          "url": ""
+        },
+        {
+          "title": "一汽TOYOTA大客户管理系统 ",
+          "des": "针对经销商客户的后台管理系统，包含权限设置，订单审核，信息统计各个模块的数据管理等，为经销店基于互联网运营方便管理得到了整个改善。",
+          "url": ""
+        },
+        {
+          "title": "RFID射频管理系统",
+          "des": "针对仓库人员管理的一套后台管理系统，包含人员架构，系统设置，出入库等数据管理，为仓库人员带来了方便、快捷的管理模式。",
+          "url": ""
+        }
+      ],
+      "viewMore": "github上面查看更多"
+    },
+    "experience": {
+      "title": "经历",
+      "expList": [
+        {
+          "title": "北京福思维科技发展有限公司",
+          "time": "2017年3月~至今",
+          "post": "web前端研发工程师",
+          "imgUrl": "img/e_js.svg",
+          "tech": "boostrap ajax json原生js及若干类库",
+          "contentList": [
+            "负责快速构建网站",
+            "根据业务需求设计合适的工程项目",
+            "同期学习ES6及node,vue,ng2,ts,体会函数式编程思想"
+          ]
+        },
+        {
+          "title": "北京弋宸时代科技有限公司",
+          "time": "2016年6月~2017年2月",
+          "post": "web前端开发工程师",
+          "imgUrl": "img/e_html.svg",
+          "tech": "html5,css3,javascript,extjs",
+          "contentList": [
+            "负责网站站静态页开发",
+            "负责网站前端页面交互开发",
+            "同期工作之余提升自己原生JS的编码能力"
+          ]
+        }
+      ],
+      "des": "2016年初，放弃.net工程师职位，开始前端自学生涯。"
+    },
+    "contact": {
+      "title": "联系我",
+      "desList1": [
+        "灵感",
+        "代码",
+        "梦想",
+        "未来"
+      ],
+      "desList2": [
+        "注重效率，偏爱敏捷开发",
+        "喜欢尝试，期待新鲜事物",
+        "前端即兴趣，兴趣即未来",
+        "行路有良友，便是捷径",
+        "带上我吧，一起看到更大的世界"
+      ],
+      "download": "下载简历",
+      "fileList": [
+        {
+          "title": "HTML版",
+          "url": "www.baidu.com"
+        },
+        {
+          "title": "PDF版",
+          "url": "www.baidu.com"
+        }
+      ],
+      "typeList": [
+        {
+          "icon": "img/s_github.svg",
+          "url": ""
+        },
+        {
+          "icon": "img/s_sf.svg",
+          "url": ""
+        },
+        {
+          "icon": "img/s_blog.svg",
+          "url": ""
+        },
+        {
+          "icon": "img/s_zh.svg",
+          "url": "https://www.zhihu.com/people/fezky"
+        },
+        {
+          "icon": "img/s_wb.svg",
+          "url": ""
+        }
+      ]
+    }
+  },
+  "en": {
+    "header": {
+      "langList": [
+        "CN",
+        "EN"
+      ],
+      "titleList": [
+        {
+          "svg": "img/d_home.svg",
+          "title": "home"
+        },
+        {
+          "svg": "img/d_info.svg",
+          "title": "about"
+        },
+        {
+          "svg": "img/d_skills.svg",
+          "title": "skills"
+        },
+        {
+          "svg": "img/d_exp.svg",
+          "title": "exp"
+        },
+        {
+          "svg": "img/d_works.svg",
+          "title": "works"
+        },
+        {
+          "svg": "img/d_contact.svg",
+          "title": "contact"
+        }
+      ]
+    },
+    "footer": {},
+    "default": {
+      "quote": "Life is a kind of endless yearning, eager to continue to rise, become more great and noble.",
+      "desList": [
+        "I am Zhao Jian",
+        "A front-end R & D engineer",
+        "zhaoj2016@qq.com"
+      ]
+    },
+    "info": {
+      "title": "About Me",
+      "infoList": [
+        {
+          "icon": "img/i_age.svg",
+          "key": "Age",
+          "value": "24"
+        },
+        {
+          "icon": "img/i_edu.svg",
+          "key": "Edu.",
+          "value": "COLL"
+        },
+        {
+          "icon": "img/i_site.svg",
+          "key": "Add.",
+          "value": "BeiJing"
+        },
+        {
+          "icon": "img/i_status.svg",
+          "key": "Status",
+          "value": "Quit"
+        }
+      ],
+      "desList": [
+        "Two and a half years full-time front-end development experience",
+        "Familiar with MV * development, well versed in automation, modular development of the road",
+        "Efficient self-learning ability, with independent analysis to solve problems",
+        "Strong self-driving force, the code OCD"
+      ]
+    },
+    "skill": {
+      "title": "Skills",
+      "outCircleList": [
+        {
+          "color": "rgba(121,100,102,0.8)",
+          "name": "gulp"
+        },
+        {
+          "color": "rgba(49,65,82,0.8)",
+          "name": "angular"
+        },
+        {
+          "color": "rgba(76,157,160,0.8)",
+          "name": "webpack"
+        },
+        {
+          "color": "rgba(66,66,66,0.8)",
+          "name": "less"
+        },
+        {
+          "color": "rgba(193,131,106,0.8)",
+          "name": "css3"
+        },
+        {
+          "color": "rgba(117,148,179,0.8)",
+          "name": "nodejs"
+        },
+        {
+          "color": "rgba(71,83,94,0.8)",
+          "name": "C#"
+        },
+        {
+          "color": "rgba(147,147,189,0.8)",
+          "name": "h5"
+        }
+      ],
+      "innerCircleList": [
+        {
+          "color": "rgba(179,164,140,0.8)",
+          "name": "es6"
+        },
+        {
+          "color": "rgba(171,209,220,0.8)",
+          "name": "vue"
+        },
+        {
+          "color": "rgba(238,215,163,0.8)",
+          "name": "ng2"
+        },
+        {
+          "color": "rgba(207,184,178,0.8)",
+          "name": "go"
+        }
+      ],
+      "desList": [
+        "Skilled use of angularJs1.x and encapsulate all kinds of libraries",
+        "Permanent PC / APP / WeChat three platform front-end research and development",
+        "Good at component / plugin development, can be written out of the library to write JS code",
+        "Coding thinking robustness/scalability/maintainability"
+      ]
+    },
+    "works": {
+      "title": "Works",
+      "worksList": [
+        {
+          "title": "The first edition of 2018",
+          "des": "Using CVs to develop your resume, it is easy to display your skills.",
+          "url": ""
+        },
+        {
+          "title": "Vue-cli single page background management system",
+          "des": "  Using the current mainstream MVVM framework to build a single page management system based on Element UI developed by the hungry team.",
+          "url": ""
+        },
+        {
+          "title": "FAW TOYOTA key account management system",
+          "des": " Background management system for dealer customers, including authority settings, order review, data management of information statistics modules, has been improved for the convenience of dealer management based on Internet operation.",
+          "url": ""
+        },
+        {
+          "title": "RFID RF management system",
+          "des": "  A set of background management system for warehouse personnel management, including personnel structure, system settings, access to warehouse and other data management, has brought convenient and fast management mode for warehouse personnel.",
+          "url": ""
+        }
+      ],
+      "viewMore": "Go github to see more"
+    },
+    "experience": {
+      "title": "Experience",
+      "expList": [
+        {
+          "title": "Beijing Fusi Technology Development Co., Ltd.",
+          "time": "2017.03~now",
+          "post": "Web front-end R & D engineers",
+          "imgUrl": "img/e_js.svg",
+          "tech": "Boostrap Ajax JSON native JS and some class libraries",
+          "contentList": [
+            "Responsible for building website quickly",
+            "Design appropriate projects according to business needs.",
+            "Learn ES6 and node, Vue, NG2, TS in the same period, understand functional programming ideas."
+          ]
+        },
+        {
+          "title": "Beijing Yi Chen time Technology Co., Ltd.",
+          "time": "2016.06~2017.02",
+          "post": "Web development and SEO",
+          "imgUrl": "img/e_html.svg",
+          "tech": "HTML5, CSS3, JavaScript, extjs",
+          "contentList": [
+            "Responsible for static page development of website station",
+            "Responsible for website front-end page interaction development",
+            "Over the same period of work to enhance the coding ability of their native JS"
+          ]
+        }
+      ],
+      "des": "In early 2016, he gave up the position of.Net engineer and began his self study career at the front end."
+    },
+    "contact": {
+      "title": "Contact Me",
+      "desList1": [
+        "INSPIRATION",
+        "CODE",
+        "DREAM",
+        "FUTURE"
+      ],
+      "desList2": [
+        "Focus on efficiency, preference for agile development",
+        "Like to try, look forward to something new",
+        "Front is interested, interest is the future",
+        "Line road friends, is a shortcut",
+        "With me, see the bigger world together"
+      ],
+      "download": "Download Resume",
+      "fileList": [
+        {
+          "title": "HTML",
+          "url": "www.baidu.com"
+        },
+        {
+          "title": "PDF",
+          "url": "www.baidu.com"
+        }
+      ],
+      "typeList": [
+        {
+          "icon": "img/s_github.svg",
+          "url": "https://github.com/zhaojianMaster"
+        },
+        {
+          "icon": "img/s_sf.svg",
+          "url": ""
+        },
+        {
+          "icon": "img/s_blog.svg",
+          "url": ""
+        },
+        {
+          "icon": "img/s_zh.svg",
+          "url": ""
+        },
+        {
+          "icon": "img/s_wb.svg",
+          "url": ""
+        }
+      ]
+    }
+  }
+}
